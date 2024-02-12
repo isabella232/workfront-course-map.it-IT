@@ -1,21 +1,21 @@
 ---
-title: Creazione di rapporti di base per la nuova esperienza Workfront
-description: mappatura di workfront one corsi su experience league corsi
+title: Creazione di rapporti di base per la nuova esperienza di Workfront
+description: mappatura dei corsi di workfront one su corsi experience league
 exl-id: 336fd0c1-bed2-48d1-9f34-7a175031865f
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creazione di rapporti di base per la nuova esperienza Workfront
+# Creazione di rapporti di base per la nuova esperienza di Workfront
 
-I rapporti forniscono informazioni approfondite, motivano azioni e giustificano gli sforzi di lavoro. Scopri come creare report e dashboard personalizzati incredibili e accattivanti per sbloccare i dati che tieni traccia in Workfront.
+I rapporti forniscono informazioni approfondite, motivano l’azione e giustificano gli sforzi di lavoro. Scopri come creare rapporti e dashboard personalizzati incredibili e accattivanti per sbloccare i dati di cui tieni traccia in Workfront.
 
 >[!IMPORTANT]
 >
->**Questo programma di apprendimento di Workfront One è ora associato ai corsi Workfront di Experience League migrati e ottimizzati.  Tutti gli stessi obiettivi di apprendimento sono coperti dalla nuova struttura.**.
+>**Tieni presente che questo programma di apprendimento precedente di Workfront One è ora associato ai corsi su Workfront di Experience League che sono appena stati migrati e ottimizzati.  Nella nuova struttura rientrano tutti gli stessi obiettivi di apprendimento.**.
 
 <table>
   <tr>
@@ -29,10 +29,10 @@ I rapporti forniscono informazioni approfondite, motivano azioni e giustificano 
       </div>
       <p>
         <br/>
-         Gli elementi di reporting sono i filtri, le visualizzazioni e i raggruppamenti presenti in tutti i rapporti elenco in Workfront. Apprendi queste informazioni per aiutarti a creare rapporti e calendari personalizzati.
+         Gli elementi di reporting sono i filtri, le viste e i raggruppamenti presenti in tutti i rapporti elenco in Workfront. Apprendere queste informazioni ti aiuta a creare rapporti e calendari personalizzati.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>   
    <td>
@@ -48,7 +48,7 @@ I rapporti forniscono informazioni approfondite, motivano azioni e giustificano 
          I rapporti sono le finestre sui tuoi dati. Scopri come creare tre diversi tipi di rapporti in Workfront e utilizzarli nelle dashboard.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>
     <td>
@@ -64,7 +64,7 @@ I rapporti forniscono informazioni approfondite, motivano azioni e giustificano 
          Con un calendario personalizzato è possibile visualizzare le date e le informazioni direttamente dai progetti, dalle attività e dai problemi in un formato calendario.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>
   </tr>
@@ -72,7 +72,7 @@ I rapporti forniscono informazioni approfondite, motivano azioni e giustificano 
 
 ## Risorse aggiuntive
 
-* [Corsi Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Corsi di Workfront](https://experienceleague.adobe.com/?lang=it&amp;Solution=Workfront#courses)
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=it)
+* [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it)
+* [Community di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

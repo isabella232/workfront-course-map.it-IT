@@ -1,38 +1,38 @@
 ---
-title: Impostazioni per la verifica in Workfront per la nuova esperienza Workfront
-description: mappatura di workfront one corsi su experience league corsi
+title: Impostazioni bozza di Workfront per la nuova esperienza di Workfront
+description: mappatura dei corsi di workfront one su corsi experience league
 exl-id: 7d259c4f-b0ec-4bfd-9ae2-91acfa47a5ba
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Impostazioni per la verifica in Workfront per la nuova esperienza Workfront
+# Impostazioni bozza di Workfront per la nuova esperienza di Workfront
 
-Inizia a usare la funzione di revisione e approvazione digitale di Workfront, nota anche come verifica, esplorando i vantaggi e configurando la verifica per adattarla ai flussi di lavoro del progetto.
+Inizia a usare la funzione di revisione e approvazione digitale di Workfront, nota anche come bozza, esplorando i vantaggi e configurando la bozza per adattarla ai flussi di lavoro del progetto.
 
 >[!IMPORTANT]
 >
->**Questo programma di apprendimento di Workfront One è ora associato al corso Workfront Experience League di nuova migrazione e ottimizzato.  Tutti gli stessi obiettivi di apprendimento sono coperti dalla nuova struttura.**.
+>**Questo programma di apprendimento di Workfront One è ora associato al corso Workfront Experience League che è stato appena migrato e ottimizzato.  Nella nuova struttura rientrano tutti gli stessi obiettivi di apprendimento.**.
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof">
-      <img alt="Bozza di Workfront: amministrazione e configurazione" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
+      <img alt="Workfront Proof: Amministrazione e configurazione" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
       </a>
       <div>
-         <strong>Bozza di Workfront: amministrazione e configurazione</strong></a>         
+         <strong>Workfront Proof: Amministrazione e configurazione</strong></a>         
          <br/><em>55 minuti</em>
       </div>
       <p>
         <br/>
-         Scopri come regolare le impostazioni della bozza, personalizzare azioni e rapporti e impostare i flussi di lavoro per le bozze.
+         Scopri come regolare le impostazioni della bozza, personalizzare azioni e rapporti e impostare i flussi di lavoro di bozza.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>   
   </tr>
@@ -41,7 +41,7 @@ Inizia a usare la funzione di revisione e approvazione digitale di Workfront, no
 
 ## Risorse aggiuntive
 
-* [Corsi Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Corsi su Workfront](https://experienceleague.adobe.com/?lang=it&amp;Solution=Workfront#courses)
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=it)
+* [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it)
+* [Community di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

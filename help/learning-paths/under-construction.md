@@ -1,25 +1,25 @@
 ---
-title: In costruzione
-description: mappatura di workfront one corsi su experience league corsi
+title: In corso di realizzazione
+description: mappatura dei corsi di workfront one su corsi experience league
 hidefromtoc: true
 index: false
 exl-id: adbf1cb6-b7a3-466b-b8a1-1b5ff1d1f20f
 source-git-commit: 2ae7d08440554978a1c2a953f5fa07d3e3e8ed7a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# In costruzione
+# In corso di realizzazione
 
-Ad Experience League, stiamo aggiornando e ottimizzando questo contenuto. Dovremmo pubblicarlo quanto prima e porgerci le nostre scuse per eventuali disagi.
+Stiamo aggiornando e ottimizzando questi contenuti per Experience League. Dovrebbero essere pubblicati quanto prima, ci scusiamo per eventuali disagi.
 
-Per ulteriori domande, ti invitiamo a creare un post nel [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront) su Experience League.
+In caso di ulteriori domande, ti invitiamo a creare un post nella [Community di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront) su Experience League.
 
-Puoi anche esplorare alcune delle altre risorse Workfront di cui è stata effettuata la migrazione ad Experience League,
+Puoi anche esplorare alcune delle altre risorse Workfront per le quali è stata effettuata la migrazione a Experience League,
 
-* [Corsi Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Corsi su Workfront](https://experienceleague.adobe.com/?lang=it&amp;Solution=Workfront#courses)
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=it)
+* [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it)
+* [Communities di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

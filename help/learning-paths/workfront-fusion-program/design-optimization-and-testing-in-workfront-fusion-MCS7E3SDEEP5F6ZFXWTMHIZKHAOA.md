@@ -1,11 +1,11 @@
 ---
 title: Ottimizzazione del progetto e test
-description: mappatura di workfront one corsi su experience league corsi
+description: mappatura dei corsi di workfront one su corsi experience league
 exl-id: f8d6a6cb-ae96-49f0-bca8-7d05dc452437
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -13,25 +13,25 @@ ht-degree: 0%
 
 I seguenti percorsi di apprendimento di Workfont One,
 
-* Benvenuti in Workfront Fusion
-* Nozioni di base
-* Connettori universali e routing
+* Ti diamo il benvenuto in Workfront Fusion
+* Comprendere le nozioni di base
+* Connettori universali e indirizzamento
 * Iterazione e aggregazione
 * Cronologia e pianificazione dell’esecuzione
 * Oltre i moduli di base
 * Strutture di dati e archivi di dati
-* Bit e bobs funzionali finali
+* Componenti funzionali finali
 * Risoluzione dei problemi e gestione degli errori
 * Amministrazione di Workfront Fusion
 * Ottimizzazione del progetto e test
 
-sono stati ottimizzati e ricreati come tutorial di Experience League, fai clic sul pulsante [Panoramica di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en){target="_blank"} tutorial per iniziare.
+sono stati ottimizzati e ricreati come tutorial di Experience League: Fai clic sul tutorial [Panoramica di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=it){target="_blank"} per iniziare.
 
-I nuovi tutorial di Experience League coprono gli stessi obiettivi di apprendimento dei percorsi di apprendimento precedenti e sono stati ottimizzati, ove possibile, per fornire un’esperienza di apprendimento completa.  Esplora la libreria completa di corsi, documentazione, tutorial e community su Workfront, su Experience League.
+I nuovi tutorial di Experience League coprono gli stessi obiettivi di apprendimento dei percorsi precedenti e sono stati ottimizzati, ove possibile, per fornire un’esperienza di apprendimento completa.  Esplora la libreria completa di corsi, documentazione, tutorial e community di Workfront su Experience League.
 
 ## Risorse aggiuntive
 
-* [Corsi Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Corsi di Workfront](https://experienceleague.adobe.com/?lang=it&amp;Solution=Workfront#courses)
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=it)
+* [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it)
+* [Community di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)

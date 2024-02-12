@@ -1,21 +1,21 @@
 ---
-title: Finanziamenti per la nuova esperienza Workfront
-description: mappatura di workfront one corsi su experience league corsi
+title: Dati finanziari per la nuova esperienza di Workfront
+description: mappatura dei corsi di workfront one su corsi experience league
 exl-id: 34755db4-c00b-4405-a099-8b623633d64c
 source-git-commit: 69af576ac5a046c8687f3c14442903cf64c72d94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Finanze del progetto
 
-Workfront è divisa **Finanze del progetto** Corso di Experience League in due corsi incentrati sui ruoli utente e amministratore.
+In Workfront il corso **Finanze del progetto** su Experience League è stato diviso in due corsi incentrati sui ruoli utente e amministratore.
 
 >[!IMPORTANT]
 >
->**Il programma di apprendimento Workfront One è ora mappato su questi corsi Experience League Workfront aggiornati.**.
+>**Il programma di apprendimento Workfront One precedente è ora associato a questi corsi di Workfront su Experience League Workfront che sono stati appena aggiornati.**.
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ Workfront è divisa **Finanze del progetto** Corso di Experience League in due c
          Scopri come tenere traccia delle informazioni finanziarie per i progetti, impostare tipi di costi e ricavi e sostituire le tariffe di fatturazione.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2023-1-finances.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>
       <td>
@@ -45,10 +45,10 @@ Workfront è divisa **Finanze del progetto** Corso di Experience League in due c
       </div>
       <p>
         <br/>
-         Scopri come stabilire impostazioni finanziarie per garantire la coerenza di fatturazione e reporting nell’istanza o nel gruppo Workfront.
+         Scopri come definire le impostazioni finanziarie per garantire la coerenza di fatturazione e reporting nell’istanza o nel gruppo Workfront.
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/docs/courses/using/workfront-a-1-2023-1-finances.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vai al corso</span>
+      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Passa al corso</span>
       </a>
    </td>
   </tr>
@@ -57,9 +57,9 @@ Workfront è divisa **Finanze del progetto** Corso di Experience League in due c
 
 ## Risorse aggiuntive
 
-* [Corsi Workfront](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html)
-* [Tutorials Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Corsi su Workfront](https://experienceleague.adobe.com/?lang=it&amp;Solution=Workfront#courses)
+* [Documentazione di Workfront](https://experienceleague.adobe.com/docs/workfront.html?lang=it)
+* [Tutorial su Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=it)
+* [Community di Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
 
 
